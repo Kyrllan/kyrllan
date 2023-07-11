@@ -1,9 +1,13 @@
-### Hello, Olá, Salve, Salut, Bonjour, Ciao!!! 👋
+👋 Hello, Olá, Salve, Salut, Bonjour, Ciao!!!
 
-<!--
-- 🔭 I’m currently working on frontend.
-- 📫 How to reach me: kyrllan@hotmail.com
--->
+Me chamo Kyrllan, sou um entusiasta de programação e apaixonado(a) por tecnologia. Neste espaço, compartilho meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
+
+💻 Atualmente, estou focado em front-end, trabalhando com vue/react. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e expandir meu conhecimento.
+
+📫 Você pode entrar em contato comigo através do meu e-mail kyrllan@hotmail.com. Fique à vontade para me enviar uma mensagem se tiver alguma pergunta, sugestão ou apenas para bater um papo sobre tecnologia!
+
+🚀 Obrigado por visitar meu perfil! Sinta-se à vontade para explorar meus repositórios e projetos. Espero que encontre algo interessante e inspirador por aqui.
+
 <div style="display: inline_block"><br>
   <img align="center" alt="Kns-Js" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/0db9778b-ef47-4afe-be0c-1f5cf85f43b3">
   <img align="center" alt="Kns-Ts" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/01e357d8-93e3-42b2-b6dc-7ced1197c250">
