@@ -6,9 +6,13 @@
 -->
 
 <div style="display: inline_block"><br>
-![javascript-original](https://github.com/Kyrllan/kyrllan/assets/31549101/0db9778b-ef47-4afe-be0c-1f5cf85f43b3)
+![javascript-original]()
 ![typescript-original](https://github.com/Kyrllan/kyrllan/assets/31549101/01e357d8-93e3-42b2-b6dc-7ced1197c250)
 ![vuejs-original](https://github.com/Kyrllan/kyrllan/assets/31549101/6a4c4221-639d-4c03-b77a-3ebab1b696ba)
+
+
+  
+  <img align="center" alt="Kns-Js" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/0db9778b-ef47-4afe-be0c-1f5cf85f43b3">
 
 
   
