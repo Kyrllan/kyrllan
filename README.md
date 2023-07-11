@@ -1,6 +1,6 @@
 👋 Hello, Olá, Salve, Salut, Bonjour, Ciao!!!
 
-Me chamo Kyrllan, sou um entusiasta de programação e apaixonado(a) por tecnologia. Neste espaço, compartilho meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
+Me chamo Kyrllan, sou um entusiasta de programação e apaixonado por tecnologia. Neste espaço, compartilho meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
 
 💻 Atualmente, estou focado em front-end, trabalhando com vue/react. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e expandir meu conhecimento.
 
