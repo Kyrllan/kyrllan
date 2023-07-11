@@ -6,21 +6,15 @@
 -->
 
 <div style="display: inline_block"><br>
-![javascript-original]()
-![typescript-original](https://github.com/Kyrllan/kyrllan/assets/31549101/01e357d8-93e3-42b2-b6dc-7ced1197c250)
-![vuejs-original](https://github.com/Kyrllan/kyrllan/assets/31549101/6a4c4221-639d-4c03-b77a-3ebab1b696ba)
-
-
-  
   <img align="center" alt="Kns-Js" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/0db9778b-ef47-4afe-be0c-1f5cf85f43b3">
-
-
-  
-  <img align="center" alt="Kns-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Kns-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Kns-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Kns-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Kns-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Kns-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Kns-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" alt="Kns-Ts" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/01e357d8-93e3-42b2-b6dc-7ced1197c250">
+  <img align="center" alt="Kns-Vue" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/6a4c4221-639d-4c03-b77a-3ebab1b696ba">
+  <img align="center" alt="Kns-Nuxt" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/1cc465e7-1122-4d93-8869-3297e4fc9118">
+  <img align="center" alt="Kns-Vuetify" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/1cc465e7-1122-4d93-8869-3297e4fc9118">
+  <img align="center" alt="Kns-React" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/c8627cc4-a741-46e6-9755-856ff5688613">
+  <img align="center" alt="Kns-Next" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/f53875be-fa17-4508-928e-d34c9d645bb3">
+  <img align="center" alt="Kns-Html" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/532d944c-8d8e-4b9d-ac13-3083ec1034bb">
+  <img align="center" alt="Kns-Css" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/9ba1cb23-4035-4419-ad53-540c486a3cfd">
+  <img align="center" alt="Kns-Sass" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/b9cf67ca-9f07-4655-a370-ebb6e7d5e095">
+  <img align="center" alt="Kns-Bootstrap" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/2eedcce4-078b-4e88-af10-8d10959e55a9">
 </div>
