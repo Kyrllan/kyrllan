@@ -20,6 +20,7 @@ Me chamo Kyrllan, sou um entusiasta de programação e apaixonado por tecnologia
   <img align="center" alt="Kns-Css" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/9ba1cb23-4035-4419-ad53-540c486a3cfd">
   <img align="center" alt="Kns-Sass" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/b9cf67ca-9f07-4655-a370-ebb6e7d5e095">
   <img align="center" alt="Kns-Bootstrap" height="30" width="40" src="https://github.com/Kyrllan/kyrllan/assets/31549101/2eedcce4-078b-4e88-af10-8d10959e55a9">
+  <img align="center" alt="Kns-Adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"/>
 </div>
 
 ![Snake animation](https://github.com/Kyrllan/Kyrllan/blob/output/github-contribution-grid-snake.svg)
