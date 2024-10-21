@@ -23,4 +23,4 @@ Me chamo Kyrllan, sou um entusiasta de programação e apaixonado por tecnologia
   <img align="center" alt="Kns-Adonis" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/adonisjs/adonisjs-original.svg"/>
 </div>
 
-![Snake animation](https://github.com/Kyrllan/Kyrllan/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Kyrllan/Kyrllan/blob/output/github-snake-dark.svg)
