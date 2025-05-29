@@ -2,7 +2,7 @@
 
 Me chamo Kyrllan, sou um entusiasta de programação e apaixonado por tecnologia. Neste espaço, compartilho meus projetos, experimentos e contribuições para a comunidade de desenvolvedores.
 
-💻 Atualmente, estou focado em front-end, trabalhando com vue/react. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e expandir meu conhecimento.
+💻 Atualmente, estou focado em front-end, trabalhando com vueJs. Estou sempre em busca de novos desafios e oportunidades para aprimorar minhas habilidades e expandir meu conhecimento.
 
 📫 Você pode entrar em contato comigo através do meu e-mail kyrllan@hotmail.com. Fique à vontade para me enviar uma mensagem se tiver alguma pergunta, sugestão ou apenas para bater um papo sobre tecnologia!
 
